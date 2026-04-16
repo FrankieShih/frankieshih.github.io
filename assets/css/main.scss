@@ -41,3 +41,44 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* === Custom overrides === */
+
+.page__footer {
+  display: none;
+}
+
+/* === Paper Tags (clean academic style) === */
+.tag {
+  display: inline-block;
+  padding: 3px 10px;
+  margin-right: 6px;
+  font-size: 10px;
+  border-radius: 999px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+/* AI & Labor */
+.tag-ai-labor {
+  background-color: #e3f2fd;
+  color: #1565c0;
+}
+
+/* FinTech */
+.tag-fintech {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+}
+
+/* AI Methodology (in business) */
+.tag-method {
+  background-color: #f3e5f5;
+  color: #6a1b9a;
+}
+
+/* Healthcare Informatics */
+.tag-health {
+  background-color: #fff3e0;
+  color: #ef6c00;
+}
