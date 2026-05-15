@@ -30,27 +30,27 @@ Growing Geographic Dispersion of AI Jobs in America</a></li>
 
 ---
 
-### Heterogeneous Graph Learning for Market Structure Discovery<span class="tag tag-fintech">Fintech</span><span class="tag tag-method">Methodology in Business AI</span>
+### Heterogeneous Graph Learning for Market Structure Discovery<span class="tag tag-fintech">Financial AI</span><span class="tag tag-method">Methodology in Business AI</span>
 
 **Hanwen Shi**\*, Mike Nguyen\*, P.K. Kannan, Kunpeng Zhang (*\*Equal contribution*)<br>
-*Under review at Production and Operations Management*
+*Major Revision at Production and Operations Management*
 
-*Early versions presented at:*  
+*Early versions presented or accepted at:*  
 - 4th Artificial Intelligence In Management (AIM) Conference, Los Angeles, CA, 2024  
 - Conference on Information Systems and Technology (CIST), Atlanta, GA, 2025
 
 ---
 
-### Robust Risk Assessment under Strategic Language Optimization: An Adversarial Learning Approach <span class="tag tag-fintech">Fintech</span><span class="tag tag-method">Methodology in Business AI</span>
+### Robust Risk Assessment under Strategic Language Optimization: An Adversarial Learning Approach <span class="tag tag-fintech">Financial AI</span><span class="tag tag-method">Methodology in Business AI</span>
 **Hanwen Shi**, Kunpeng Zhang<br>
 *In Preparation for Submission*  
 
 *Early versions presented at:*  
-- 22nd Symposium on Statistical Challenges in Electronic Commerce Research(SCECR), Tokyo, Japan, 2026 
+- 22nd Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), Tokyo, Japan, 2026 
 
 ---
 
-### From Human Expertise to Multi-Agent Intelligence: A Multi-Agent System for Equity Research Report Generation and Financial Decision Making<span class="tag tag-fintech">Fintech</span><span class="tag tag-method">Methodology in Business AI</span>
+### From Human Expertise to Multi-Agent Intelligence: A Multi-Agent System for Equity Research Report Generation and Financial Decision Making<span class="tag tag-fintech">Financial AI</span><span class="tag tag-method">Methodology in Business AI</span>
 **Hanwen Shi**, Bingze Xu, Kunpeng Zhang  
 *In Preparation for Submission*  
 
@@ -62,8 +62,8 @@ Growing Geographic Dispersion of AI Jobs in America</a></li>
 *Accepted at The 14th IEEE International Conference on Healthcare Informatics (ICHI)*  
 
 *Early versions presented at:*  
-- 35th Annual Production and Operations Management Society (POMS)  
-- 16th Annual Conference on Health IT and Analytics (CHITA)  
+- 35th Annual Production and Operations Management Society (POMS), Atlanta, GA, 2025 
+- 16th Annual Conference on Health IT and Analytics (CHITA), DC, 2026 
 
 ---
 
@@ -80,12 +80,12 @@ Feiyu E, **Hanwen Shi**, Kunpeng Zhang
 
 ## Research in Progress
 
-### The Heterogeneous Diffusion of AI Skills  
+### The Heterogeneous Diffusion of AI Skills <span class="tag tag-ai-labor">AI & Labor</span>  
 **Hanwen Shi**, Anil Gupta, Waverly Ding, Kunpeng Zhang  
 
 ---
 
-### AI Investment, Strategic Communication, and Firm Performance  
+### AI Investment, Strategic Communication, and Firm Performance <span class="tag tag-ai-labor">AI & Labor</span>  
 Jianing Wang, **Hanwen Shi**, Kunpeng Zhang, Waverly Ding, Siva Viswanathan, Anil Gupta  
 
 ---
