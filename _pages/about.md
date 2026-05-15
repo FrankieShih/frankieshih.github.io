@@ -12,8 +12,6 @@ I am a fifth-year Ph.D. candidate in Information Systems at the Robert H. Smith 
 Research Interests
 ======
 
-## Research Interests
-
 My research lies at the intersection of artificial intelligence, information systems, and organizational decision-making. Broadly, my work focuses on developing AI-driven methods to extract actionable insights from complex organizational and healthcare data, with applications in financial analysis, labor markets, and healthcare informatics.
 
 My first research stream centers on LLM-based and multi-agent systems for financial text analysis. As an Information Systems scholar with a design science and methodological orientation, I develop AI-driven approaches to decode firm communications—such as disclosures to investors, regulators, and the public—to uncover real-world business insights and support managerial and investment decision-making. This work emphasizes methodological innovation in leveraging large language models and agentic systems to improve the interpretation, reliability, and scalability of financial text analytics.
