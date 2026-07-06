@@ -7,7 +7,7 @@ permalink: /publications/
 ## Working Papers
 ### [Identifying AI Jobs in Online Job Postings: Existing Versus Newly Developed LLM-Based Approaches and A Dataset on Demand for AI Jobs among Russell 1000 Firms, 2018–2025](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842102)  <span class="tag tag-ai-labor">AI & Labor</span><span class="tag tag-method">Methodology in Business AI</span>
 **Hanwen Shi**, Anil Gupta, Waverly Ding, Kunpeng Zhang  
-*Under Review at Strategic Management Journal*  
+*Reject & Resubmit at Strategic Management Journal*  
 
 [UMD-LinkUp AIMaps](https://aimaps.ai/) · [Model](https://huggingface.co/FrankieShih/umd_llm_based_ai_jobs_classifier)
 
@@ -45,7 +45,8 @@ Growing Geographic Dispersion of AI Jobs in America</a></li>
 **Hanwen Shi**, Kunpeng Zhang<br>
 *In Preparation for Submission*  
 
-*Early versions presented at:*  
+Supported by Finance, Economics, Strategy, and Technology (FEST) Research Grant Program, Ed Snider Center, University of Maryland (2026)
+Early versions presented at:  
 - 22nd Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), Tokyo, Japan, 2026 
 
 ---
@@ -55,37 +56,37 @@ Growing Geographic Dispersion of AI Jobs in America</a></li>
 *In Preparation for Submission*  
 
 ---
-## Conference Preceedings
+## Other Publications
 
 ### [Enhancing Clinical Trial Patient Matching Through Knowledge Augmentation and Reasoning with Multi-agent](https://arxiv.org/abs/2411.14637) <span class="tag tag-health">Healthcare Informatics</span>  
 **Hanwen Shi**, Jin Zhang, Kunpeng Zhang  
-*Accepted at The 14th IEEE International Conference on Healthcare Informatics (ICHI)*  
+In *Proceedings of 14th IEEE International Conference on Healthcare Informatics (ICHI)*  
 
-*Early versions presented at:*  
+Early versions presented at:  
 - 35th Annual Production and Operations Management Society (POMS), Atlanta, GA, 2025 
 - 16th Annual Conference on Health IT and Analytics (CHITA), DC, 2026 
 
 ---
 
-### Key Verbatim Extraction from Clinical Notes: A Hierarchical Multimodal Cross-Attention Approach <span class="tag tag-health">Healthcare Informatics</span>  
-Feiyu E, **Hanwen Shi**, Kunpeng Zhang  
 
-*Early versions presented at:*  
+## Seleted Work in Progress
+
+### The Diffusion of AI: Evidence from Large-Scale Job Posting Data <span class="tag tag-ai-labor">AI & Labor</span>  
+with Waverly Ding, Anil Gupta, Kunpeng Zhang (*in alphabetical order*)
+
+---
+
+### Symbolic or Substantive? AI Narratives, Human Capital Investment, and Data Complementarity in AI Adoption <span class="tag tag-ai-labor">AI & Labor</span>  
+with Waverly Ding, Anil Gupta, Siva Viswanathan, Jianing Wang, and Kunpeng Zhang (*in alphabetical order*)
+
+---
+
+### Evidence-Grounded Clinical Information Extraction with Multi-Agent <span class="tag tag-health">Healthcare Informatics</span>  
+with Feiyu E, Kunpeng Zhang  
+
+Early versions presented at:  
 - INFORMS Annual Meeting, Seattle, WA, 2024  
 - 14th Conference on Health IT and Analytics (CHITA), Washington, DC, 2024  
 - Workshop on e-Business (WeB), Atlanta, GA, 2025  
-
----
-
-
-## Research in Progress
-
-### The Heterogeneous Diffusion of AI Skills <span class="tag tag-ai-labor">AI & Labor</span>  
-**Hanwen Shi**, Anil Gupta, Waverly Ding, Kunpeng Zhang  
-
----
-
-### AI Investment, Strategic Communication, and Firm Performance <span class="tag tag-ai-labor">AI & Labor</span>  
-Jianing Wang, **Hanwen Shi**, Kunpeng Zhang, Waverly Ding, Siva Viswanathan, Anil Gupta  
 
 ---
