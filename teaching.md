@@ -40,4 +40,5 @@ author_profile: true
 - IEEE International Conference on Big Data (IEEE BigData), 2024  
 - International Conference on Computational Linguistics (COLING), 2025  
 - Journal of Business Analytics, 2025  
-- Pacific Asia Conference on Information Systems (PACIS), 2026  
+- Pacific Asia Conference on Information Systems (PACIS), 2026
+- International Conference on Information Systems (ICIS), 2026
