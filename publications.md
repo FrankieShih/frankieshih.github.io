@@ -35,7 +35,7 @@ Growing Geographic Dispersion of AI Jobs in America</a></li>
 **Hanwen Shi**\*, Mike Nguyen\*, P.K. Kannan, Kunpeng Zhang (*\*Equal contribution*)<br>
 *Major Revision at Production and Operations Management*
 
-*Early versions presented or accepted at:*  
+Early versions presented or accepted at:  
 - 4th Artificial Intelligence In Management (AIM) Conference, Los Angeles, CA, 2024  
 - Conference on Information Systems and Technology (CIST), Atlanta, GA, 2025
 
@@ -46,6 +46,7 @@ Growing Geographic Dispersion of AI Jobs in America</a></li>
 *In Preparation for Submission*  
 
 Supported by Finance, Economics, Strategy, and Technology (FEST) Research Grant Program, Ed Snider Center, University of Maryland (2026)
+
 Early versions presented at:  
 - 22nd Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), Tokyo, Japan, 2026 
 
