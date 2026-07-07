@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in Information Systems at the Robert H. Smith School of Business, University of Maryland. I am fortunate to be advised by Prof. [Kunpeng Zhang](https://kpzhang.github.io/)
+I am a fifth-year Ph.D. candidate in Information Systems at the Robert H. Smith School of Business, University of Maryland, where I am fortunate to be advised by Professor [Prof. Kunpeng Zhang](https://kpzhang.github.io/). I also collaborated as an external Machine Learning Research Engineer at [Pi HealthProf. Kunpeng Zhang](https://www.pihealth.ai//) from 2023 to 2026. Before joining the University of Maryland, I earned an M.S. from Johns Hopkins University and dual B.S. degrees in Mathematics and Computer Science from Renmin University of China.
+
+**I am on the 2026-2027 academic job market.**
 
 Research Interests
 ======
 
-My research lies at the intersection of artificial intelligence, information systems, and organizational decision-making. Broadly, my work focuses on developing AI-driven methods to extract actionable insights from complex organizational and healthcare data, with applications in financial analysis, labor markets, and healthcare informatics.
+My research focuses on developing AI methodologies that transform unstructured, heterogeneous, and multimodal data into actionable insights for business decision-making, with applications in financial markets and healthcare informatics.
 
-My first research stream centers on LLM-based and multi-agent systems for financial text analysis. As an Information Systems scholar with a design science and methodological orientation, I develop AI-driven approaches to decode firm communications—such as disclosures to investors, regulators, and the public—to uncover real-world business insights and support managerial and investment decision-making. This work emphasizes methodological innovation in leveraging large language models and agentic systems to improve the interpretation, reliability, and scalability of financial text analytics.
+My first research stream develops AI methodologies for analyzing firm communications, such as disclosures to investors, regulators, and the public. This work emphasizes methodological innovation in leveraging large language models (LLMs) and agentic AI systems to improve the reliability and scalability of financial text analytics, enabling more informed managerial and investment decision-making.
 
-My second research stream examines the relationship between AI and labor markets. Through AIMaps.ai, I study how AI adoption creates new labor demands and how firms invest in AI-related human capital. My empirical work investigates how firms’ AI communication strategies—both in terms of symbolic signaling (“AI talk”) and substantive implementation (“AI action”)—shape organizational performance, labor demand, and the diffusion of AI jobs. More broadly, I am interested in how firms formulate and communicate AI strategies in response to technological change and market expectations.
+My second research stream develops efficient and transparent AI systems for electronic health record (EHR) processing and clinical decision support. By integrating retrieval-augmented generation and evidence-grounded reasoning, I aim to improve the reliability of AI-assisted healthcare applications and ultimately enhance clinical practice and patient well-being.
 
-My third research stream focuses on healthcare informatics. Drawing on nearly four years of experience as an external machine learning research engineer at Pi Health, I develop efficient and transparent AI systems for electronic health records (EHRs). My work explores retrieval and retrieval-augmented generation (RAG) architectures, as well as multi-agent systems, to improve the reliability, traceability, and interpretability of AI-driven healthcare solutions. This research aims to advance trustworthy AI applications in clinical and healthcare settings.
-
+I am also interested in AI diffusion and labor markets. My third research stream examines how organizations adopt AI and formulate AI strategies. Through large-scale analyses of billions of online job postings and firm disclosures, I study how organizations invest in AI-related human capital, communicate their AI initiatives, and translate AI adoption into organizational capabilities.
