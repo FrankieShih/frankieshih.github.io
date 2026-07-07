@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in Information Systems at the Robert H. Smith School of Business, University of Maryland, where I am fortunate to be advised by Professor [Prof. Kunpeng Zhang](https://kpzhang.github.io/). I also collaborated as an external Machine Learning Research Engineer at [Pi HealthProf. Kunpeng Zhang](https://www.pihealth.ai//) from 2023 to 2026. Before joining the University of Maryland, I earned an M.S. from Johns Hopkins University and dual B.S. degrees in Mathematics and Computer Science from Renmin University of China.
+I am a fifth-year Ph.D. candidate in Information Systems at the Robert H. Smith School of Business, University of Maryland, where I am fortunate to be advised by Professor [Prof. Kunpeng Zhang](https://kpzhang.github.io/). I also collaborated as an external Machine Learning Research Engineer at [Pi Health](https://www.pihealth.ai//) from 2023 to 2026. Before joining the University of Maryland, I earned an M.S. from Johns Hopkins University and dual B.S. degrees in Mathematics and Computer Science from Renmin University of China.
 
 **I am on the 2026-2027 academic job market.**
 
