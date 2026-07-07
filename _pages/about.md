@@ -21,3 +21,9 @@ My first research stream develops AI methodologies for analyzing firm communicat
 My second research stream develops efficient and transparent AI systems for electronic health record (EHR) processing and clinical decision support. By integrating retrieval-augmented generation and evidence-grounded reasoning, I aim to improve the reliability of AI-assisted healthcare applications and ultimately enhance clinical practice and patient well-being.
 
 I am also interested in AI diffusion and labor markets. My third research stream examines how organizations adopt AI and formulate AI strategies. Through large-scale analyses of billions of online job postings and firm disclosures, I study how organizations invest in AI-related human capital, communicate their AI initiatives, and translate AI adoption into organizational capabilities.
+
+Contact
+======
+
+Please feel free to contact me at **[hwshi@umd.edu](mailto:hwshi@umd.edu)** if you are interested in research opportunities or have any questions.
+
