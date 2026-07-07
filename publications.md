@@ -45,7 +45,7 @@ Early versions presented or accepted at:
 **Hanwen Shi**, Kunpeng Zhang<br>
 *In Preparation for Submission*  
 
-Supported by Finance, Economics, Strategy, and Technology (FEST) Research Grant Program, Ed Snider Center, University of Maryland (2026)
+Supported by Finance, Economics, Strategy, and Technology (FEST) Research Grant Program, Ed Snider Center, University of Maryland
 
 Early versions presented at:  
 - 22nd Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), Tokyo, Japan, 2026 
@@ -74,6 +74,8 @@ Early versions presented at:
 
 ### The Diffusion of AI: Evidence from Large-Scale Job Posting Data <span class="tag tag-ai-labor">AI & Labor</span>  
 with Waverly Ding, Anil Gupta, Kunpeng Zhang (*in alphabetical order*)
+
+Supported by Smith Internal Research Grants, University of Maryland
 
 ---
 
