@@ -9,6 +9,9 @@ author_profile: true
 ## Teaching Experience
 
 ### University of Maryland  
+**Designer and Lecturer** · Fall 2026  
+- MBA AI Bootcamp
+
 **Lecturer** · Summer 2025  
 - BMGT301: Introduction to Information Systems, Rating: 4.5 / 5  
 
