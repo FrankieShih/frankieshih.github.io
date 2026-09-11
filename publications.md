@@ -70,17 +70,24 @@ Early versions presented at:
 ---
 
 
-## Seleted Work in Progress
+## Seleted Work in Progress (*author listed in alphabetical order*)
+
+### A Novel Measure of Organizational Engagement with ESG Based on 2008-2023 Job Postings Data in the U.S.
+with Waverly Ding, Anil Gupta, Kunpeng Zhang.
+
+A NSF-funded Project
+
+---
 
 ### The Diffusion of AI: Evidence from Large-Scale Job Posting Data <span class="tag tag-ai-labor">AI & Labor</span>  
-with Waverly Ding, Anil Gupta, Kunpeng Zhang (*in alphabetical order*)
+with Waverly Ding, Anil Gupta, Kunpeng Zhang 
 
 Supported by Smith Internal Research Grants, University of Maryland
 
 ---
 
 ### Symbolic or Substantive? AI Narratives, Human Capital Investment, and Data Complementarity in AI Adoption <span class="tag tag-ai-labor">AI & Labor</span>  
-with Waverly Ding, Anil Gupta, Siva Viswanathan, Jianing Wang, and Kunpeng Zhang (*in alphabetical order*)
+with Waverly Ding, Anil Gupta, Siva Viswanathan, Jianing Wang, and Kunpeng Zhang 
 
 ---
 
